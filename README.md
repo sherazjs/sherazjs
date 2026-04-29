@@ -42,6 +42,24 @@ I’m a **motivated tech learner and creative professional** with experience in 
 
 ---
 
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark)
+
+---
+
 ## ✨ Mindset
 
 > *“I may not know everything today, but I’m confident in my ability to learn, adapt, and grow.”*
